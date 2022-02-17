@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pratibha-negi
 - 👀 I’m interested in learning and exploring
-- 🌱 I’m currently learning Microservices via Spring Boot
 - 📫 You can reach me at rebasing.pratibha@gmail.com
 
 <!---
